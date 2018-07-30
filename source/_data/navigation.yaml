@@ -1,5 +1,5 @@
 { "logo":
-    { "text": "FOAM Developer portal"
+    { "text": "MPPASSId Developer portal"
     , "type": "link"
     , "path": "index.html"
     },
@@ -64,7 +64,7 @@
       },
       { "text": "Repos"
       , "type": "link"
-      , "path": "https://github.com/f-o-a-m/"
+      , "path": "https://github.com/mpassid"
       }
       ]
     },
@@ -73,7 +73,7 @@
     },
     { "text": "Raise an Issue on Github"
     , "type": "link"
-    , "path": "https://github.com/f-o-a-m/foam.developer/issues/new"
+    , "path": "https://github.com/mpassid/MPASSid-proxy/issues/new"
     }
   ]
 }
