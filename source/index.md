@@ -3,24 +3,19 @@ title: MPASSid Developer portal
 
 # Welcome to the MPASSId Developer portal
 
-<img src="images/devportal.png" width="500">
+<img src="images/mpassid.png">
 
 This is where all developer documentation is hosted.
 
-If you are new to FOAM:
-
-+ Check out our [website](https://mpass.fi).
-
 ## Overview
 
-You can access a set of tutorials, sample applications and the reference for the REST API to the left.
-
+MPASSid overview 
 
 ## Architecture
 
-+ [Architecture of MPASSId](tutorials/architecture.html)
+MPASSid architecture is simple yet flexible. 
 
-** Note that the FOAM API is currently in _beta_ and it can be changed without notice. **
++ [Architecture of MPASSId](tutorials/architecture.html)
 
 ## Getting started
 
@@ -38,7 +33,7 @@ Currently we have two sample applications. The `CSC-Explorer` is a simple `react
 
 ## Support
 
-The easiest way to access our API is to use the Swagger generated docs. You can simply explore the API by calling its endpoints via your browser. We also host automatically generated client libraries that you can import into your application.
-+ [Swagger](swagger/ui.html)
-+ [Javascript clients](swagger/intro.html)
+In case you need more support, you have two options
++ [Join our Slack and engage dialogue with out developers](support/slack.html)
++ Send us email at info@mpass.fi
 
