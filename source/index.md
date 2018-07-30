@@ -15,17 +15,22 @@ If you are new to FOAM:
 
 You can access a set of tutorials, sample applications and the reference for the REST API to the left.
 
+
+## Architecture
+
 + [Architecture of MPASSId](tutorials/architecture.html)
 
 ** Note that the FOAM API is currently in _beta_ and it can be changed without notice. **
 
-## Connect your application to MPASSid 
+## Getting started
+
+### Connect your application to MPASSid 
 
 These tutorials outline how you can get started using the FOAM API. It begins with a general overview and follows with detailed information on how to generate an API access token, how to use a `CSC` base contract. It also shows you the general outline of the architecture of FOAM.
 
 + [Connect your application to MPASSid](tutorials/connect_app.html)
 
-## Connect new userprofile source to MPASSid
+### Connect new userprofile source to MPASSid
 
 Currently we have two sample applications. The `CSC-Explorer` is a simple `react` based application that you can fork and have display beacons and other `CSC`'s using calls to the API.
 
