@@ -1,5 +1,5 @@
 { "logo":
-    { "text": "MPPASSId Developer portal"
+    { "text": "MPASSId Developer portal"
     , "type": "link"
     , "path": "index.html"
     },
@@ -8,28 +8,16 @@
     , "type": "link",
     , "path": "index.html"
     },
-    { "text": "Tutorials"
+    { "text": "Connect userdata source"
     , "type": "label"
     , "children": [
-        { "text": "Getting started"
+        { "text": "Setup metadata"
         , "type": "link"
         , "path": "tutorials/getting_started.html"
-        },
-        { "text": "API Access"
-        , "type": "link"
-        , "path": "tutorials/intro_to_api.html"
-        },
-        { "text": "Intro to CSC"
-        , "type": "link"
-        , "path": "tutorials/intro_to_csc.html"
-        },
-        { "text": "Architecture of FOAM"
-        , "type": "link"
-        , "path": "tutorials/architecture.html"
         }
       ]
     },
-    { "text": "Sample applications"
+    { "text": "Connect your application"
     , "type": "label"
     , "children": [
         { "text": "CSC-Explorer"
