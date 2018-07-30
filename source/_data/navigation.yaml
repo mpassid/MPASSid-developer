@@ -11,23 +11,27 @@
     { "text": "Connect userdata source"
     , "type": "label"
     , "children": [
-        { "text": "Setup metadata"
+        { "text": "Before you start"
         , "type": "link"
-        , "path": "tutorials/getting_started.html"
+	, "path": "userdata/index.html"
         }
       ]
     },
     { "text": "Connect your application"
     , "type": "label"
     , "children": [
-        { "text": "CSC-Explorer"
+        { "text": "Before you start"
         , "type": "link"
-        , "path": "sampleApplications/csc-explorer.html"
+        , "path": "app/index.html"
         },
-        { "text": "Parking DAO"
+	{ "text": "Prepare metadata"
         , "type": "link"
-        , "path": "sampleApplications/chanterelle.html"
-        }
+        , "path": "app/metadata.html"
+        },
+        { "text": "Connect to test env"
+        , "type": "link"
+        , "path": "app/testenv.html"
+	},
       ]
     },
     { "text": "API Docs"
