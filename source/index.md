@@ -5,18 +5,11 @@ title: MPASSid Developer portal
 
 This is where all developer documentation is hosted. If you are not familiar with MPASSid authentication service, you should take a look at the architecture and overview. 
 
+
 ## Getting started
 
-### Connect your application to MPASSid 
-
-These tutorials outline how you can get started using the FOAM API. It begins with a general overview and follows with detailed information on how to generate an API access token, how to use a `CSC` base contract. It also shows you the general outline of the architecture of FOAM.
-
-+ [Connect your application to MPASSid](tutorials/connect_app.html)
-
-### Connect new userprofile source to MPASSid
-
-Currently we have two sample applications. The `CSC-Explorer` is a simple `react` based application that you can fork and have display beacons and other `CSC`'s using calls to the API.
-
+Normally developers want to connect new service or application to MPASSid proxy for authentication or add new userprofile source to MPASSid. Below you'll find tutorials for both
++ [Connect you application to MPASSId](tutorials/connect_app.html)
 + [Connect new userprofile source from municipality](tutorials/connect_municipality.html)
 
 
