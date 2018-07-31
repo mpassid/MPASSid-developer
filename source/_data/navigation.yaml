@@ -32,6 +32,10 @@
         , "type": "link"
         , "path": "app/testenv.html"
 	      },
+        { "text": "Connect to production"
+        , "type": "link"
+        , "path": "app/production.html"
+        },
       ]
     },
     

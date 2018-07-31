@@ -3,10 +3,10 @@ title: Connect your application to MPASSid
 
 # Connect your application - Before you start
 
-This document provides details on how to make authenticated requests to the FOAM REST API to obtain data to produce various web maps shown below.
+Before you jump in to code, make sure....
 
 
 
 ### Proceed to metadata
 
-Now that bacis things are clear, setup the metadata. 
+Now that bacis things are clear, [setup the application metadata](metadata.html). 
