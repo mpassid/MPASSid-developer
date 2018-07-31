@@ -50,11 +50,11 @@
     { "text": "Resources"
     , "type": "label"
     , "children": [
-      { "text": "Videos"
+      { "text": "Architecture"
       , "type": "link"
-      , "path": "resources/videos.html"
+      , "path": "resources/architecture.html"
       },
-      { "text": "Repos"
+      { "text": "Libraries & tools"
       , "type": "link"
       , "path": "https://github.com/mpassid"
       }

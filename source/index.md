@@ -3,19 +3,7 @@ title: MPASSid Developer portal
 
 # Welcome to the MPASSId Developer portal
 
-<img src="images/mpassid.png">
-
-This is where all developer documentation is hosted.
-
-## Overview
-
-MPASSid overview 
-
-## Architecture
-
-MPASSid architecture is simple yet flexible. 
-
-+ [Architecture of MPASSId](tutorials/architecture.html)
+This is where all developer documentation is hosted. If you are not familiar with MPASSid authentication service, you should take a look at the architecture and overview. 
 
 ## Getting started
 
@@ -30,6 +18,7 @@ These tutorials outline how you can get started using the FOAM API. It begins wi
 Currently we have two sample applications. The `CSC-Explorer` is a simple `react` based application that you can fork and have display beacons and other `CSC`'s using calls to the API.
 
 + [Connect new userprofile source from municipality](tutorials/connect_municipality.html)
+
 
 ## Support
 
