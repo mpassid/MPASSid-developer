@@ -8,15 +8,15 @@
     , "type": "link",
     , "path": "index.html"
     },
-    { "text": "Connect userdata source"
-    , "type": "label"
-    , "children": [
-        { "text": "Before you start"
-        , "type": "link"
-	, "path": "userdata/index.html"
-        }
-      ]
-    },
+    # { "text": "Connect userdata source"
+    # , "type": "label"
+    # , "children": [
+    #    { "text": "Before you start"
+    #    , "type": "link"
+	  #    , "path": "userdata/index.html"
+    #    }
+    #  ]
+    # },
     { "text": "Connect your application"
     , "type": "label"
     , "children": [
