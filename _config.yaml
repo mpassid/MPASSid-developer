@@ -45,3 +45,12 @@ marked:
 ignore:
   # development only: ignore sub node_modules when `npm link hexo-theme-doc`
   - '**/node_modules/**/*node_modules'
+
+prism_plugin:
+  mode: 'preprocess'    # realtime/preprocess
+  theme: 'default'
+  line_number: false    # default false
+ # custom_css: 'path/to/your/custom.css'     # optional
+
+highlight:
+  enable: false
