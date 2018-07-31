@@ -61,5 +61,9 @@
       }
       ]
     },
+    { "text": "Contact"
+    , "type": "link"
+    , "path": "https://mpass.fi/yhteystiedot/"
+    },
   ]
 }

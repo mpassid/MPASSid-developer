@@ -1,7 +1,7 @@
 title: MPASSid Developer portal
 ---
 
-# Welcome to the MPASSId Developer portal
+<img src="images/header-text.png"/>
 
 This is where all MPASSId developer documentation is hosted. If you are not familiar with MPASSid authentication service, you should take a look at the architecture and overview. 
 
