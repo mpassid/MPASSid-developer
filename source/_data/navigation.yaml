@@ -66,6 +66,11 @@
     { "text": "Raise an Issue on Github"
     , "type": "link"
     , "path": "https://github.com/mpassid/MPASSid-proxy/issues/new"
+    },
+    { "text": "Join Slack"
+    , "type": "link"
+    , "path": "support/slack.html"
     }
+
   ]
 }
