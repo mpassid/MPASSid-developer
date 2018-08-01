@@ -15,7 +15,7 @@ Normally developers want to connect new service or application to MPASSid proxy 
 
 ## Overview
 
-<img src="images/simple-components.png" width="80%"/>
+<img src="images/technical-mpass-components-2018.png" width="80%"/>
 
 
 ## Support
