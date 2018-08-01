@@ -13,6 +13,10 @@ Normally developers want to connect new service or application to MPASSid proxy 
 + [Connect you application to MPASSId](app/index.html)
 + Connect new userprofile source from municipality (coming 2018)
 
+## Overview
+
+<img src="images/simple-components.png" width="80%"/>
+
 
 ## Support
 
